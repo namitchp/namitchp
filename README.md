@@ -1,9 +1,8 @@
-<a href="https://eddiejaoude.substack.com/p/links" target="_blank"><img src="https://user-images.githubusercontent.com/624760/197235663-1a08eef9-4f9f-4986-8177-c32329a65f3e.jpeg" /></a>
+<!--<a href="https://eddiejaoude.substack.com/p/links" target="_blank"><img src="https://user-images.githubusercontent.com/624760/197235663-1a08eef9-4f9f-4986-8177-c32329a65f3e.jpeg" /></a> -->
 
 <p align="center">I believe Open Source is for EVERYONE; yes, YOU TOO! Join me on my <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">YouTube channel</a> so we can geek out 🎥</p>
 
-- 🌟 Part of the <a href="https://stars.github.com/profiles/eddiejaoude/"> GitHub Stars program</a>
-- 🚀 Part of the <a href="https://accelerator.github.com"> GitHub Accelerator program</a> for <a href="https://github.com/EddieHubCommunity/BioDrop">BioDrop</a>
+- 🌟 Part of the <a href="https://stars.github.com/namitchp/"> GitHub Stars program</a>
 - 🟩 Join our inclusive community <a href="http://eddiehub.org">EddieHub</a>!</b> Where we believe in Collaboration 1st, Code 2nd!
 - 📸 FREE video course on <a href="https://www.udemy.com/course/make-your-github-profile-stand-out/learn/lecture/29205792#overview">How to make your GitHub profile standout</a>
 - 📰 Check out my Substack blog https://substack.com/@eddiejaoude
@@ -22,7 +21,7 @@
 
 <table>
   <tr>
-    <td><a href="https://stars.github.com/profiles/eddiejaoude/"><img src="https://user-images.githubusercontent.com/624760/197230432-de4db9f3-8c8d-4421-8ed4-fc83c02f73e6.jpeg" /></a></td>
+   <!-- <td><a href="https://stars.github.com/profiles/eddiejaoude/"><img src="https://user-images.githubusercontent.com/624760/197230432-de4db9f3-8c8d-4421-8ed4-fc83c02f73e6.jpeg" /></a></td> -->
     <td><a href="https://stars.github.com/profiles/eddiejaoude/"><img src="https://user-images.githubusercontent.com/624760/197230439-f90cd6b0-2174-41be-97eb-5f28f49d9d19.jpg" /></a></td>
   </tr>
 </table>
