@@ -6,7 +6,7 @@
 - 🟩 Join our inclusive community <a href="http://eddiehub.org">EddieHub</a>!</b> Where we believe in Collaboration 1st, Code 2nd!
 - 📸 FREE video course on <a href="https://www.udemy.com/course/make-your-github-profile-stand-out/learn/lecture/29205792#overview">How to make your GitHub profile standout</a>
 - 📰 Check out my Substack blog https://substack.com/@eddiejaoude
-
+<!--
 <p align="center">
   <a href="https://x.com/namitchp">
     <img src="https://img.shields.io/badge/follow-%40eddiejaoude%20130k+-1DA1F2?label=Twitter&logo=twitter&style=for-the-badge&color=1A8CD8" alt="Eddie Jaoude's Twitter"/>
@@ -17,20 +17,20 @@
   <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">
     <img src="https://img.shields.io/youtube/channel/subscribers/UC5mnBodB73bR88fLXHSfzYA?style=for-the-badge&logo=youtube&label=Youtube&color=FF0000" alt="Eddie Jaoude's YouTube channel"/>
   </a>
-</p>
+</p>  -->
 
-<table>
+<!-- <table>
   <tr>
    <!-- <td><a href="https://stars.github.com/profiles/eddiejaoude/"><img src="https://user-images.githubusercontent.com/624760/197230432-de4db9f3-8c8d-4421-8ed4-fc83c02f73e6.jpeg" /></a></td> -->
     <td><a href="https://stars.github.com/profiles/eddiejaoude/"><img src="https://user-images.githubusercontent.com/624760/197230439-f90cd6b0-2174-41be-97eb-5f28f49d9d19.jpg" /></a></td>
   </tr>
-</table>
+</table> -->
 
 ---
 
 ### Latest YouTube videos
 
-<table>
+<!-- <table>
 <!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=XZOgX6sq1ZY"><img width="140px" src="https://i.ytimg.com/vi/XZOgX6sq1ZY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=XZOgX6sq1ZY">Is your web application secure?</a> (Aug 29, 2024)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=K3iZJSWyOGc"><img width="140px" src="https://i.ytimg.com/vi/K3iZJSWyOGc/mqdefault.jpg"></a></td>
@@ -40,13 +40,13 @@
 <tr><td><a href="https://www.youtube.com/watch?v=qL7n5C-tv3U"><img width="140px" src="https://i.ytimg.com/vi/qL7n5C-tv3U/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=qL7n5C-tv3U">Are you using Global Git Ignore?</a> (Aug 18, 2024)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
-</table>
+</table>-->
 
 ---
 
 ### Testimonials
 
-<table>
+<!-- <table>
   <tr>
     <th>Author</th>
     <th>Message</th>
@@ -69,4 +69,4 @@
   </tr>
 </table>
 
-<p>All my social links and courses in one place... https://eddiejaoude.substack.com/p/links</p>
+<p>All my social links and courses in one place... https://eddiejaoude.substack.com/p/links</p> -->
