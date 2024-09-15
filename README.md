@@ -1,1 +1,5 @@
-Hi Namit
+👋 Hi, I’m @namitchp
+👀 I’m interested in mern stack and DevOps
+🌱 I’m currently learning something something
+💞️ I’m looking to collaborate on ...
+📫 How to reach me ...
