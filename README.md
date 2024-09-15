@@ -1,13 +1,8 @@
 <!--<a href="https://eddiejaoude.substack.com/p/links" target="_blank"><img src="https://user-images.githubusercontent.com/624760/197235663-1a08eef9-4f9f-4986-8177-c32329a65f3e.jpeg" /></a> -->
 
-<p align="center">I believe Open Source is for EVERYONE; yes, YOU TOO! Join me on my <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">YouTube channel</a> so we can geek out 🎥</p>
+<!-- <p align="center">I believe Open Source is for EVERYONE; yes, YOU TOO! Join me on my <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">YouTube channel</a> so we can geek out 🎥</p> -->
 
-- 🌟 Part of the <a href="https://stars.github.com/namitchp/"> GitHub Stars program</a>
-- 🟩 Join our inclusive community <a href="http://eddiehub.org">EddieHub</a>!</b> Where we believe in Collaboration 1st, Code 2nd!
-- 📸 FREE video course on <a href="https://www.udemy.com/course/make-your-github-profile-stand-out/learn/lecture/29205792#overview">How to make your GitHub profile standout</a>
-- 📰 Check out my Substack blog https://substack.com/@eddiejaoude
-<!--
-<p align="center">
+<!-- <p align="center">
   <a href="https://x.com/namitchp">
     <img src="https://img.shields.io/badge/follow-%40eddiejaoude%20130k+-1DA1F2?label=Twitter&logo=twitter&style=for-the-badge&color=1A8CD8" alt="Eddie Jaoude's Twitter"/>
   </a>
