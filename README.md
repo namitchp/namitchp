@@ -11,14 +11,14 @@ I mostly work with JavaScript, MVC Frameworks, Erp, and Cloud-based technologies
 
 <p float="left">
   <a href="https://www.javascript.com/" target="_blank" >
-    <img src="https://www.w3.org/2000/svg"  height="90" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTvTsaCQ0AVQCJQ_rq-jkfT40f03me0dOq9g&s"  height="90" />
   </a>
   <a href="https://www.docker.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
   </a>
   
   <a href="https://nodejs.org/en/" target="_blank" >
-    <img src="https://www.w3.org/2000/svg"  height="80" /> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIot1ZZPNqzpYPM35vNP6fR7e7TGt1i3xvSQ&s"  height="80" /> 
   </a>
   
   <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
@@ -45,14 +45,12 @@ I mostly work with JavaScript, MVC Frameworks, Erp, and Cloud-based technologies
   
 ### Databases and Monitoring
   
- <!-- 
  <a href="https://prometheus.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65" />
   </a> 
-  -->
 <!--  
-<a href="https://www.influxdata.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/influxdata.gif" height="60" />
+<a href="https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16" target="_blank" >
+    <img src="https://media.licdn.com/dms/image/v2/D4D12AQHOe5HF849Xtw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1696684905692?e=1735171200&v=beta&t=LVckypyZbFogz9-n91OdjgjAa1WD_K1EfcMAl70vbec" height="60" />
   </a> 
   -->
     <a href="https://www.postgresql.org" target="_blank" >
