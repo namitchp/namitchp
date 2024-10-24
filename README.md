@@ -45,12 +45,16 @@ I mostly work with JavaScript, MVC Frameworks, Erp, and Cloud-based technologies
   
 ### Databases and Monitoring
   
- <!-- <a href="https://prometheus.io/" target="_blank" >
+ <!-- 
+ <a href="https://prometheus.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65" />
-  </a> -->
-<!--   <a href="https://www.influxdata.com/" target="_blank" >
+  </a> 
+  -->
+<!--  
+<a href="https://www.influxdata.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/influxdata.gif" height="60" />
-  </a> -->
+  </a> 
+  -->
     <a href="https://www.postgresql.org" target="_blank" >
     <img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="60" />
   </a>
