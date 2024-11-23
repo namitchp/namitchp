@@ -44,7 +44,7 @@ I mostly work with JavaScript, MVC Frameworks, Erp, and Cloud-based technologies
  </p>
   
 ### Databases and Monitoring
-  
+  <p float="left">
  <a href="https://prometheus.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65" />
   </a> 
@@ -53,10 +53,11 @@ I mostly work with JavaScript, MVC Frameworks, Erp, and Cloud-based technologies
     <img src="https://media.licdn.com/dms/image/v2/D4D12AQHOe5HF849Xtw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1696684905692?e=1735171200&v=beta&t=LVckypyZbFogz9-n91OdjgjAa1WD_K1EfcMAl70vbec" height="60" />
   </a> 
 
-    <a href="https://www.postgresql.org" target="_blank" >
+<a href="https://www.postgresql.org" target="_blank" >
     <img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="60" />
   </a>
-    <a href="https://www.mongodb.com/" target="_blank" >
+  
+<a href="https://www.mongodb.com/" target="_blank" >
     <img src="https://www.logolynx.com/images/logolynx/cf/cf72126a3551b816d617a06ffb01388b.png" height="60" />
   </a>
 </p>
