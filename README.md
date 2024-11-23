@@ -56,11 +56,9 @@ I mostly work with JavaScript, MVC Frameworks, Erp, and Cloud-based technologies
     <a href="https://www.postgresql.org" target="_blank" >
     <img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="60" />
   </a>
-  </a>
     <a href="https://www.mongodb.com/" target="_blank" >
     <img src="https://www.logolynx.com/images/logolynx/cf/cf72126a3551b816d617a06ffb01388b.png" height="60" />
   </a>
-  
 </p>
 
 
